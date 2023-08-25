@@ -11,3 +11,11 @@
 | Link | Description |
 | ---- | ----------- |
 | [Getting Started](https://github.com/walz0/ssbm-dev/blob/main/GETTING_STARTED.md) | test | 
+| [PowerPC Assembly](https://github.com/walz0/ssbm-dev/blob/main/ASM.md) | test | 
+| [HAL SysDolphin](https://github.com/walz0/ssbm-dev/blob/main/HSD.md) | test | 
+| [Slippi Development](https://github.com/walz0/ssbm-dev/blob/main/SLIPPI.md) | test | 
+| [m-ex and C](https://github.com/walz0/ssbm-dev/blob/main/MEX_AND_C.md) | test | 
+| [Tools](https://github.com/walz0/ssbm-dev/blob/main/MEX_AND_C.md) | test | 
+
+
+All resources provided are for educational purposes only and are not meant to be distributed.
